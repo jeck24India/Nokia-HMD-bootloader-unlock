@@ -12,7 +12,7 @@ bootloader of nokia unisoc devices can be unlocked by loading patched [splloader
 
 Connect your nokia or hmd device with jtag
 
-read partition manager
+read gpt
 
 browse select and flash abl file on abl partition
 
