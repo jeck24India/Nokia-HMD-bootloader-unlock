@@ -10,7 +10,7 @@ bootloader of nokia unisoc devices can be unlocked by loading patched [splloader
 # Nokia Qualcomm Devices
 [Download abl](https://qlmflasherpro.com/index.php?a=downloads&b=folder&id=1413) protocols 
 
-Connect your nokia or hmd dvice with jtag
+Connect your nokia or hmd device with jtag
 
 read partition manager
 
