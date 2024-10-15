@@ -8,7 +8,7 @@ bootloader of nokia mediatek devices can be unlocked by using [mtkclient](https:
 bootloader of nokia unisoc devices can be unlocked by loading patched [splloader on fdl](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/wiki/patch_do_cboot%E2%80%90FDL1)
 
 # Nokia Qualcomm Devices
-[Download abl](https://qlmflasherpro.com/index.php?a=downloads&b=folder&id=1413) protocols 
+Download patched abl files https://qlmflasherpro.com/index.php?a=downloads&b=folder&id=1413 
 
 Connect your nokia or hmd device with jtag
 
